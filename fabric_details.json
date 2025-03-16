@@ -1,0 +1,134 @@
+{
+    "Acrylic": {
+        "benefits": 
+            "Lightweight and warm, making it a good choice for colder climates without being too heavy.\nResistant to moths, mildew, and most chemicals.",
+        "ideal_season": "Cool to cold weather.",
+        "recommendations": "Best in dry climates; avoid excessive humidity."
+    },
+    "Artificial Fur": {
+        "benefits": 
+            "Provides warmth and comfort without the ethical concerns of real fur.\nSoft and cozy, offering insulation for colder temperatures.",
+        "ideal_season": "Cold climates or winters.",
+        "recommendations": "Avoid in hot, humid weather."
+    },
+    "Artificial Leather": {
+        "benefits": 
+            "Hypoallergenic, making it suitable for people with sensitive skin.\nEasier to clean compared to real leather, which reduces skin irritations.",
+        "ideal_season": "Mild to cool climates.",
+        "recommendations": "Avoid extreme wet conditions."
+    },
+    "Chenille": {
+        "benefits": 
+            "Soft texture can reduce skin irritation and increase comfort.\nOffers a cozy feel, ideal for bedding or casual wear.",
+        "ideal_season": "Cool to cold climates.",
+        "recommendations": "Best avoided in hot, humid climates."
+    },
+    "Corduroy": {
+        "benefits": 
+            "Thick and insulating fabric, ideal for colder seasons.\nDurable, offering protection from wind and abrasion.",
+        "ideal_season": "Cool to cold weather.",
+        "recommendations": "Not ideal for hot, humid climates."
+    },
+    "Cotton": {
+        "benefits": 
+            "Breathable and natural, making it great for sensitive skin.\nAbsorbs moisture, keeping the skin dry and comfortable.",
+        "ideal_season": "Hot and humid climates.",
+        "recommendations": "Machine wash cold, tumble dry low."
+    },
+    "Crepe": {
+        "benefits": 
+            "Lightweight and breathable, which is beneficial for skin comfort.\nDrapes well and doesn't cling, offering more freedom of movement.",
+        "ideal_season": "Mild to warm climates.",
+        "recommendations": "Avoid in extreme cold or rainy climates."
+    },
+    "Denim": {
+        "benefits": 
+            "Durable and strong, offering protection and comfort for outdoor activities.\nEasy to care for, with minimal risk of allergic reactions.",
+        "ideal_season": "Mild to cool climates.",
+        "recommendations": "Can be uncomfortable in hot and humid weather."
+    },
+    "Felt": {
+        "benefits": 
+            "Highly insulating, providing warmth in colder weather.\nNon-irritating to skin, making it ideal for craft projects, hats, and shoes.",
+        "ideal_season": "Cold climates.",
+        "recommendations": "Not suited for hot weather."
+    },
+    "Fleece": {
+        "benefits": 
+            "Soft, warm, and lightweight, making it ideal for outdoor activities.\nQuick-drying and moisture-wicking properties help in cold, damp conditions.",
+        "ideal_season": "Cold and cool climates.",
+        "recommendations": "Best suited for dry, windy weather."
+    },
+    "Leather": {
+        "benefits": 
+            "Durable and protective; can provide insulation in colder climates.\nBreathable when properly maintained, reducing the likelihood of skin irritation.",
+        "ideal_season": "Cool to cold climates.",
+        "recommendations": "Moderate humidity is best; avoid excessive heat and humidity."
+    },
+    "Linen": {
+        "benefits":
+            "Highly breathable and moisture-wicking, making it ideal for hot weather.\nReduces sweating, keeping the skin cool and dry.",
+        "ideal_season": "Hot, humid climates.",
+        "recommendations": "Not ideal for cold weather."
+    },
+    "Lut": {
+        "benefits": 
+            "A type of fabric often made from soft cotton or linen, breathable and gentle on the skin.\nSuitable for delicate skin as it does not irritate.",
+        "ideal_season": "Warm climates.",
+        "recommendations": "Avoid in cold climates."
+    },
+    "Nylon": {
+        "benefits": 
+            "Lightweight, elastic, and durable, offering flexibility and comfort.\nNon-absorbent, so it might cause discomfort if it traps sweat.",
+        "ideal_season": "Mild to cool climates.",
+        "recommendations": "Not ideal for hot, humid weather."
+    },
+    "Polyester": {
+        "benefits":
+            "Durable and resistant to shrinking, fading, and wrinkles.\nEasy to care for, making it a low-maintenance fabric for people with busy lifestyles.",
+        "ideal_season": "Mild to cool weather.",
+        "recommendations": "Machine wash and tumble dry."
+    },
+    "Satin": {
+        "benefits": 
+            "Soft and smooth texture, ideal for sensitive skin.\nReduces irritation and provides comfort, especially in luxury garments.",
+        "ideal_season": "Mild to cool climates.",
+        "recommendations": "Avoid in hot weather."
+    },
+    "Silk": {
+        "benefits": 
+            "Hypoallergenic, making it ideal for sensitive skin.\nNatural temperature regulation properties; cool in summer and warm in winter.",
+        "ideal_season": "Moderate temperatures.",
+        "recommendations": "Dry clean or hand wash with cold water."
+    },
+    "Suede": {
+        "benefits": 
+            "Soft and comfortable on the skin, less likely to cause irritation compared to rough leather.\nOffers protection from wind and cold.",
+        "ideal_season": "Cool, dry climates.",
+        "recommendations": "Not suitable for rainy or extremely hot conditions."
+    },
+    "Terrycloth": {
+        "benefits": 
+            "Highly absorbent, ideal for towels, robes, and sweat-wicking sportswear.\nGentle on the skin, reducing irritation during use.",
+        "ideal_season": "Humid or warm conditions.",
+        "recommendations": "Not ideal for cold climates."
+    },
+    "Velvet": {
+        "benefits": 
+            "Soft and luxurious, reducing friction against the skin.\nProvides comfort, especially in winter, due to its thickness.",
+        "ideal_season": "Cold to cool climates.",
+        "recommendations": "Can feel uncomfortable in hot climates."
+    },
+    "Viscose": {
+        "benefits": 
+            "Soft and breathable, often used in clothing for sensitive skin.\nGood moisture absorption, reducing irritation and rashes.",
+        "ideal_season": "Warm to mild climates.",
+        "recommendations": "Not suitable for cold or rainy weather."
+    },
+    "Wool": {
+        "benefits": 
+            "Excellent insulation, regulating body temperature and keeping you warm in cold weather.\nMoisture-wicking and breathable, reducing perspiration.",
+        "ideal_season": "Cold climates.",
+        "recommendations": "Hand wash or dry clean."
+    }
+}
